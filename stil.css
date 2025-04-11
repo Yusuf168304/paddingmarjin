@@ -1,0 +1,58 @@
+body {
+    background: rgb(42, 93, 90);
+}
+.bir {
+    width: 430px;
+    height: 90px;
+    background: rgb(49, 19, 19);
+    margin-left: 530px;
+    font-weight: bold; 
+}
+.illi {
+    color: white;
+    font-size: 38px;
+    padding-left: 70px;
+    padding-top: 25px;
+}
+.uch {
+    width: 800px;
+    height: 500px;
+    background-color: black;
+    margin-top: 50px;
+    margin-left: 350px;
+    border: 7px solid red;
+}
+.tor {
+    width: 720px;
+    height: 200px;
+    background: rgb(31, 232, 183);
+    margin-left:40px;
+    margin-top: 33px;
+    font-size: 20px;
+    font-weight: bold; 
+    
+}
+.besh {
+    padding-right: 30px;
+   
+}
+.olti {
+    padding-left: 32px;  
+}
+.yetti {
+    padding-left: 32px;
+}
+.sakkiz {
+    padding-left: 28px; 
+}
+.toqqiz {
+    padding-left: 28px;
+}
+.ff {
+    width: 720px;
+    height: 190px;
+    background: rgb(31, 232, 183);
+    margin-left:40px;
+    margin-top: 33px;
+    font-size: 20px;
+    font-weight: bold;
